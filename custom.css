@@ -1,0 +1,30 @@
+body
+{
+    background-color: black;
+}
+h1
+{
+    color: white;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+p
+{
+    color: white;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.cert 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.big
+{
+  width: 100%;
+  z-index: 0;
+}
